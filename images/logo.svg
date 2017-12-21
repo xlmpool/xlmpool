@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="75" viewBox="0 0 70 75" width="70" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g id="layer1" transform="translate(0 -977.36)">
+  <g id="g5086" transform="matrix(.72849 .68506 -.68506 .72849 18.152 353.99)">
+   <g id="g5106" fill-rule="evenodd" transform="translate(-.0000049425)" stroke="#fff" stroke-width="1px" fill="#405d5f">
+    <path id="path5066" d="m453.57 457.54s-5-1.0714-10.357 7.3214c-5.3572 8.3929-2.5 13.929-2.5 13.929s2.5-4.2857 5.5357-6.0714 8.2143-2.8571 8.2143-2.8571z"/>
+    <path id="path5070" d="m474.64 457.54s5-1.0714 10.357 7.3214c5.3572 8.3929 2.5 13.929 2.5 13.929s-2.5-4.2857-5.5357-6.0714-8.2143-2.8571-8.2143-2.8571z"/>
+   </g>
+   <g id="g8">
+    <ellipse id="path5074" rx="7.8571" ry="11.786" cy="473.61" cx="465" fill="#ea5414"/>
+    <ellipse id="path5072" rx="4.4643" ry="4.6429" cy="474.5" cx="464.46" fill="#f7b52c"/>
+    <path id="path5059" d="m464.11 420.22s-7.7045 7.0293-10 10c-3.0357 3.9286-4.2866 8.2146-3.5723 15.357 0.71428 7.1429 3.0371 27.678 3.0371 27.678h21.07s2.3209-20.535 3.0352-27.678c0.71429-7.1428-0.5346-11.429-3.5703-15.357-2.2955-2.9707-10-10-10-10z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#d8f3f7"/>
+    <circle id="path5064" r="7.3214" cx="464.11" stroke="#000" cy="442.5" stroke-linecap="round" stroke-width="1.5" fill="#fff"/>
+   </g>
+   <path id="path5076" stroke="#fff" stroke-width="1px" fill="none" d="m464.29 500.22v19.464"/>
+   <path id="path5078" stroke="#fff" stroke-width="1px" fill="none" d="m468.39 507.72v10"/>
+   <text id="text5082" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="8.6142px" line-height="125%" y="465.23779" x="461.28842" font-family="sans-serif" fill="#000000"><tspan id="tspan5084" y="465.23779" x="461.28842" font-weight="bold" font-family="Arial">S</tspan></text>
+  </g>
+ </g>
+</svg>
